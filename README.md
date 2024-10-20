@@ -8,7 +8,7 @@
 
     This project is a Rule Engine Application consisting of a backend API built with Express and a frontend developed with React. The application allows users to create, combine, and evaluate rules based on various attributes.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Rule_engine](C:\Users\Dell\Pictures\Screenshots\Screenshot 2024-10-20 135102.png)
 
 ####    1.Create Rule:
 
